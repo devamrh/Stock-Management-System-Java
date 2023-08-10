@@ -1,0 +1,26 @@
+35#brkptr#MSI 34-inch 5K2K#brkptr#Monitor#brkptr#12#brkptr#119000#brkptr#2022-11-30
+34#brkptr#Asus Tuf Gaming 4K#brkptr#Monitor#brkptr#12#brkptr#115000#brkptr#2022-11-30
+33#brkptr#MSI Optix 27-inch 165Hz#brkptr#Monitor#brkptr#12#brkptr#38300#brkptr#2022-11-30
+32#brkptr#Gigabyte 23.8-inch 170Hz#brkptr#Monitor#brkptr#12#brkptr#24000#brkptr#2022-11-30
+31#brkptr#Lenovo 23.8-inch#brkptr#Monitor#brkptr#12#brkptr#20500#brkptr#2022-11-30
+30#brkptr#LG 24 inch#brkptr#Monitor#brkptr#15#brkptr#19500#brkptr#2022-11-30
+29#brkptr#MSI Optix 24-inch#brkptr#Monitor#brkptr#12#brkptr#18500#brkptr#2022-11-30
+28#brkptr#Samsung 22-inch#brkptr#Monitor#brkptr#12#brkptr#14499#brkptr#2022-11-30
+27#brkptr#HP 21.5-inch#brkptr#Monitor#brkptr#12#brkptr#12700#brkptr#2022-11-30
+26#brkptr#LG 22-inch#brkptr#Monitor#brkptr#12#brkptr#12499#brkptr#2022-11-30
+25#brkptr#Intel Core i9-13900K#brkptr#Processor#brkptr#12#brkptr#69500#brkptr#2022-11-30
+24#brkptr#Intel Core i9-13900KF#brkptr#Processor#brkptr#12#brkptr#68500#brkptr#2022-11-30
+23#brkptr#Intel Core i7-13700K#brkptr#Processor#brkptr#12#brkptr#50900#brkptr#2022-11-30
+22#brkptr#Intel Core i7-12700#brkptr#Processor#brkptr#12#brkptr#43000#brkptr#2022-11-30
+21#brkptr#Intel Core i5-12600K#brkptr#Processor#brkptr#12#brkptr#34200#brkptr#2022-11-30
+20#brkptr#Intel Core i5-12500#brkptr#Processor#brkptr#12#brkptr#26000#brkptr#2022-11-30
+19#brkptr#Intel Core i5-12400#brkptr#Processor#brkptr#12#brkptr#24500#brkptr#2022-11-30
+18#brkptr#RTX 4090#brkptr#Graphics Card#brkptr#10#brkptr#238900#brkptr#2022-11-30
+17#brkptr#RTX 4080#brkptr#Graphics Card#brkptr#10#brkptr#172000#brkptr#2022-11-30
+16#brkptr#RTX 3080#brkptr#Graphics Card#brkptr#10#brkptr#125000#brkptr#2022-11-30
+15#brkptr#RTX 3070#brkptr#Graphics Card#brkptr#10#brkptr#87000#brkptr#2022-11-30
+14#brkptr#RTX 3060#brkptr#Graphics Card#brkptr#10#brkptr#48500#brkptr#2022-11-30
+13#brkptr#RTX 3050#brkptr#Graphics Card#brkptr#10#brkptr#42500#brkptr#2022-11-30
+12#brkptr#RTX 2060#brkptr#Graphics Card#brkptr#10#brkptr#24800#brkptr#2022-11-30
+11#brkptr#GTX 1660#brkptr#Graphics Card#brkptr#10#brkptr#30000#brkptr#2022-11-30
+10#brkptr#GTX 1650#brkptr#Graphics Card#brkptr#10#brkptr#24500#brkptr#2022-11-30
